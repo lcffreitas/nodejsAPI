@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Silva",
+    "email": "alice.silva@email.com",
+    "senha": "teste@123"
+  },
+  {
+    "id": 2,
+    "name": "Bruno Costa",
+    "email": "bruno.costa@email.com",
+    "senha": "senha@456"
+  },
+  {
+    "id": 3,
+    "name": "Carla Oliveira",
+    "email": "carla.oliveira@email.com",
+    "senha": "senha@789"
+  },
+  {
+    "id": 4,
+    "name": "Daniela Mendes",
+    "email": "daniela.mendes@email.com",
+    "senha": "minhasenha@101"
+  },
+  {
+    "id": 5,
+    "name": "Eduardo Pereira",
+    "email": "eduardo.pereira@email.com",
+    "senha": "abc@1234"
+  }
+]
